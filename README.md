@@ -4,4 +4,5 @@ in Android studio, and run DesktopLauncher.
 I made this game following a udemy course by Goran Lockhert.
 The textures in the game are from the course.
 The music was found online.
-Enjoy!
+Here is a video of the game running on my computer: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kp8lTjXnKlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
